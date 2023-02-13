@@ -6,7 +6,7 @@ import EmailIcon from "@mui/icons-material/Email";
 
 const Address = () => {
   return (
-    <div className="flex justify-center bg-[#f7eee7]">
+    <div className="flex justify-center bg-[#f7eee7] ">
       <div className="flex justify-between space-x-20 w-3/5 py-10">
         <div className="space-y-5">
           <h1 className="text-2xl">Important Website</h1>

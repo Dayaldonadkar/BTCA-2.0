@@ -15,9 +15,9 @@ const Working = () => {
             <div className="space-y-1">
               <h1 className="text-lg">Creating Players</h1>
               <p className="text-sm font-extralight w-60">
-                To promote the game of Chess amongst the players, to increase
-                their proficiency, to foster brotherhood among the players and
-                to promote a chess culture
+                dddddddddddddddddd To promote the game of Chess amongst the
+                players, to increase their proficiency, to foster brotherhood
+                among the players and to promote a chess culture
               </p>
             </div>
           </div>
